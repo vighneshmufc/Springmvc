@@ -1,0 +1,27 @@
+body {
+  
+}
+
+
+
+hr
+{
+	border: none;
+	height: 1px;
+	background-color: black;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.container {
+   width: 90%;
+}
+
+ .box
+ {
+ 	border: 1px solid red
+ }
+
+ .carousel .item { height: 260px; }
